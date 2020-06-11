@@ -1,0 +1,8 @@
+.navbar {
+  background-image: linear-gradient(to bottom right, blue, white);
+}
+img {
+  width: 80%;
+  align-items: center;
+  margin-bottom: 10px;
+}
